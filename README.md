@@ -10,3 +10,4 @@ Para realizar esta calculadora, ha sido necesario importar la libreria de PyQt5 
 
 Enlace para instalar la libreria ---------> https://pythones.net/pyqt-instalacion-y-codigo-tutorial/
 
+Enlace para descargar la instalación de la calculadora ------> https://sourceforge.net/projects/proyectop8m07ej3/
