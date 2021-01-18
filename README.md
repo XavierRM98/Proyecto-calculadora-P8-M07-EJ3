@@ -8,3 +8,5 @@ Esta calculadora cuenta con varios modos:
 
 Para realizar esta calculadora, ha sido necesario importar la libreria de PyQt5 con sus módulos correspondientes, QtCore, QtGui, QtWidgets.
 
+Enlace para instalar la libreria ---------> https://pythones.net/pyqt-instalacion-y-codigo-tutorial/
+
